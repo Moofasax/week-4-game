@@ -1,0 +1,78 @@
+img{
+	width: 100px;
+	height: 125px;
+}
+h1{
+	background-color: orange;
+	padding: 5px;
+	color: white;
+	width: 260px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+p{
+	color: green;
+}
+
+.winLoseClass{
+	margin-top: 15px;
+}
+
+.scoreBox{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color: teal;
+	color: white;
+	font-size: 20px;
+	width: 200px;
+	height: 100px;
+	padding-left: 5px;
+}
+
+#scoreBoxId{
+	height: 25px;
+}
+
+#matchScoreContainer{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color: green;
+	color: purple;
+	font-size: 30px;
+	width: 200px;
+	height: 100px;
+	padding-left: 5px;
+}
+
+#matchScoreContainer{
+	float: left;
+}
+
+#winsLoseCountContainer{
+	float: left;
+	background-color: powderblue;
+	color: green;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	height: 100px;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 75px;
+}
+
+.imgContainer{
+	float: left;
+	padding: 5px;
+}
+
+.floatClear{
+	clear: left;
+}
+
+#directionsContainer{
+	background-color: #D2B48C;
+	width: 345px;
+	padding: 5px;
+}
